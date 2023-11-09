@@ -17,6 +17,14 @@ header {
     width: 60%;
 }
 
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
 /***
 JUMBO
 ***/
@@ -67,3 +75,27 @@ Portfolio
 .sub {
     background-color: #CCB2A3;
 }
+
+/***
+ABOUT  US
+***/
+
+#about {
+    background-color: #21BC9C;
+    margin: 30px 0;
+    padding: 30px 0;
+    color: white;
+}
+
+#about h2{
+    text-align: center;
+    padding: 20px 0;
+}
+
+#about button{
+    color: white;
+    border-color: white;
+    align-items: center;
+}
+
+
