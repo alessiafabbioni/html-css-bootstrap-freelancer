@@ -27,3 +27,43 @@ JUMBO
     color: white;
     padding: 30px 0;
 }
+
+/***
+Portfolio
+***/
+
+#portfolio {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.card{
+    min-height: 100px;
+    border-radius: 12px;
+    margin: 10px 0;
+    padding: 20px;
+}
+
+.house {
+    background-color: #BA4B63;
+}
+
+.cake {
+    background-color: #1FA4B6;
+}
+
+.tent {
+    background-color: #130F0F;
+}
+
+.game{
+    background-color: #1C83C1;
+}
+
+.money {
+    background-color: #1338B5;
+}
+
+.sub {
+    background-color: #CCB2A3;
+}
