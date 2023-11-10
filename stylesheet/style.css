@@ -104,4 +104,16 @@ ABOUT  US
     align-items: center;
 }
 
+/***
+FORM
+***/
+
+.form-control {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    border-bottom: 1px solid #ced4da;
+}
+
 
